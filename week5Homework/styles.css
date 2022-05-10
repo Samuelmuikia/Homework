@@ -1,0 +1,37 @@
+header {
+  background-color: rgb(15, 123, 123);
+}
+body {
+  background-attachment: fixed;
+  background-color: rgb(33, 35, 32);
+  border:3px;
+}
+#introPic {
+  border-radius: 100%;
+  float: left;
+}
+p {
+  color: white);
+}
+div {
+border: 2px solid;
+color: white;
+}
+
+@media (min-width: 2000px) {
+    * {
+      color:orange;
+      float: left;
+      width: 200px;
+      height: auto;
+      margin: 50px;
+    }
+  }
+
+.link {
+    width: auto;
+}
+#bio > ul {
+    padding: 5px;
+    float: right;
+}
